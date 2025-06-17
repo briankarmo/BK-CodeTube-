@@ -1,12 +1,8 @@
-
-import CodeIcon from '@mui/icons-material/Code';import SportsEsportsIcon from '@mui/icons-material/SportsEsports';
-
+import CodeIcon from '@mui/icons-material/Code';
 
 export const logo = "./assets/bktube.png";
 
 export const categories = [
-
-
   { name: 'Coding', icon: <CodeIcon />, },
   { name: 'ReactJS', icon: <CodeIcon />, },
   { name: 'NextJS', icon: <CodeIcon />, },
